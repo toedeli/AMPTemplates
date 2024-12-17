@@ -78,7 +78,7 @@ Console.ThrowawayMessageRegex=^((WARNING|ERROR): Shader.+|Unknown command)$
 Console.AppReadyRegex=^[\d:\s]*ENGINE\s+: Game successfully created\.$
 Console.UserJoinRegex=^\s+DEFAULT\s+:.*'Player #(?<sessionid>.+?) (?<username>.+) \((?<endpoint>.*?):\d+\) connected'$
 Console.UserLeaveRegex=^\s+DEFAULT\s+:.*'Player #(?<sessionid>.+?) (?<username>.+) disconnected'$
-Console.UserChatRegex=^$
+Console.UserChatRegex=^SCRIPT\s+:\s+SCR_BaseGameMode::OnGameStateChanged\s+=\s+POSTGAME$
 Console.UpdateAvailableRegex=^\[\d\d:\d\d:\d\d\] \[INFO\] A new server update is available! v[\d\.]+.$
 Console.MetricsRegex=
 Console.SuppressLogAtStart=False
