@@ -19,9 +19,9 @@
     Meta.ExtraContainerPackages=[]
     Meta.ConfigReleaseState=NotSpecified
     Meta.NoCommercialUsage=False
-    Meta.ConfigVersion=1.5
+    Meta.ConfigVersion=1.41
     Meta.AppConfigId=23e04f07-dab1-4741-a6e9-e9d0d292c8f1
-    App.DisplayName=Arma Reforger (NORTHCOM)
+    App.DisplayName=Arma Reforger
     App.RootDir=./arma-reforger/
     App.BaseDirectory=./arma-reforger/1874900/
     App.ExecutableWin=1874900\ArmaReforgerServer.exe
